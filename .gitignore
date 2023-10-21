@@ -1,0 +1,6 @@
+images/*.png
+images/*.jpg
+images/*.jpeg
+dist/
+.parcel-cache
+node_modules
